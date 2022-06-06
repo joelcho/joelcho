@@ -1,16 +1,5 @@
 
-
-# 联系方式
-
-- 手机: 187 21788 307
-- Email: zhoulindeyx@gmail.com
-- QQ/微信号: 9246415
-
-
 # 个人信息
-
-- 周林 / 男 / 1997
-- 在读 / 大专 / 上海工商职业技术学院
 - 工作年限: 5年
 - 技术博客: https://zhoulin.blog
 - Github: https://github.com/joelcho
